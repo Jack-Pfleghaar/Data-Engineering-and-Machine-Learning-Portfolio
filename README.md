@@ -1,2 +1,5 @@
 # Data-Engineering-and-Machine-Learning-Portfolio
-A portfolio containing projects I have completed during my time in data engineering and machine learning courses!
+
+Included in this repository is a collection of projects I have completed under Dr. Amy Ruba and Dr. Greg Gogolin to demonstrate my learning and understanding of data engineering and machine learning. 
+
+I am still actively learning these concepts so some of the work may be a bit underdeveloped, but I am dedicated to growing my understanding over time!
